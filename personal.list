@@ -1,11 +1,6 @@
 # 专用地址
-DOMAIN,eu.battle.net,🇷🇺 苏联节点
-DOMAIN,tw.battle.net,🇭🇰 香港节点
-DOMAIN-SUFFIX,blizzard.com,🚀 节点选择
-DOMAIN-KEYWORD,mycard520,🚀 节点选择
-DOMAIN-SUFFIX,battle.net,🚀 节点选择
-DOMAIN-SUFFIX,blizzard.com,🚀 节点选择
-DOMAIN-SUFFIX,yandex.net,🇷🇺 苏联节点
-DOMAIN-SUFFIX,yandex.ru,🇷🇺 苏联节点
-DOMAIN-SUFFIX,yoomoney.ru,🇷🇺 苏联节点
-DOMAIN-SUFFIX,yastatic.net,🇷🇺 苏联节点
+DOMAIN,eu.battle.net
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,yoomoney.ru
+DOMAIN-SUFFIX,yastatic.net
