@@ -1,7 +1,7 @@
 # Hongkong only.
 DOMAIN-KEYWORD, mycard520
-DOMAIN-KEYWORD, battle.net
-DOMAIN-KEYWORD, blizzard.com
+DOMAIN-SUFFIX, battle.net
+DOMAIN-SUFFIX, blizzard.com
 DOMAIN, tw.battle.net
 
 
