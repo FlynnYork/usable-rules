@@ -1,7 +1,8 @@
 # Hongkong only.
-DOMAIN, shop.battle.net
+#DOMAIN, shop.battle.net
 DOMAIN, tw.battle.net
-DOMAIN, tw.shop.battle.net
-DOMAIN, kr.battle.net
+#DOMAIN, tw.shop.battle.net
+#DOMAIN, kr.battle.net
 DOMAIN-SUFFIX, blizzard.com
+DOMAIN-SUFFIX, battle.net
 DOMAIN-KEYWORD, mycard520
