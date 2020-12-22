@@ -1,3 +1,11 @@
 # Use for other URL.
 DOMAIN-SUFFIX, ea.com
+DOMAIN, api1.origin.com:443
+DOMAIN, api2.origin.com:443
+DOMAIN, api3.origin.com:443
+DOMAIN, api4.origin.com:443
+DOMAIN, data1.origin.com:443
+DOMAIN, data2.origin.com:443
+DOMAIN, data3.origin.com:443
+DOMAIN, data4.origin.com:443
 DOMAIN-SUFFIX, origin.com
