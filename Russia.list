@@ -1,8 +1,9 @@
 # Russia Only.
-DOMAIN,eu.battle.net
-DOMAIN,eu.shop.battle.net
-DOMAIN-SUFFIX,yandex.net
-DOMAIN-SUFFIX,yandex.ru
-DOMAIN-SUFFIX,yoomoney.ru
-DOMAIN-SUFFIX,yastatic.net
-USER-AGENT,YooMoney
+DOMAIN, eu.battle.net
+DOMAIN, eu.shop.battle.net
+DOMAIN-SUFFIX, yandex.net
+DOMAIN-SUFFIX, yandex.ru
+DOMAIN-SUFFIX, yoomoney.ru
+DOMAIN-SUFFIX, yastatic.net
+DOMAIN-SUFFIX, adyen.com
+USER-AGENT, YooMoney
